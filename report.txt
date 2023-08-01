@@ -1,0 +1,21 @@
+Report created on 2023-07-26
+
+Faculty Members
+---------------
+1. Evan Pilling
+ID: ev1234
+Professor, English
+
+Students
+---------------
+1. Addison Nipper
+ID: an1234
+GPA: 4.0
+Credit hours: 3
+
+2. Anthony Sss
+ID: as1234
+GPA: 3.2
+Credit hours: 5
+
+
